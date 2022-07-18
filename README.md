@@ -1,5 +1,7 @@
 ### Olá!  Eu sou o Andre Louis (:
 
+- 🤿 Atualmente trabalho na **Alura**, sou estagiário **Scuba Team** na Escola Semente 
+- 💻 Estudo **Engenharia da Computação** na Universidade Federal do Espírito Santo
 
 <div>
   <a href="https://github.com/aandrelouis"> <img height="220em" src="https://github-readme-stats.vercel.app/api?username=aandrelouis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
