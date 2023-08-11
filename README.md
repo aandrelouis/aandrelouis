@@ -1,6 +1,6 @@
 ### Olá!  Eu sou o Andre Louis (:
 
-- 🤿 Atualmente trabalho na **Alura**, sou estagiário **Scuba Team** na Escola Semente 
+- 🤿 Atualmente trabalho na **Alura**, sou **Scuba Team** na Frontend e Mobile 
 - 💻 Estudo **Engenharia da Computação** na Universidade Federal do Espírito Santo
 
 <div>
